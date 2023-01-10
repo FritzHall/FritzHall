@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @FritzHall
-- 👀 I’m interested in Volleyball and gaming
-- 🌱 I’m currently learning Information Systems
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Fritz Hall
+- 👀 I’m interested in learning how to use different programing languages that will help me in the future.
+- 🌱 I’m currently working on my knowledge when it comes to programing languages and which ones to use for different things.
+- 💞️ My favorite hobby is to play volleyball.
 - 📫 How to reach me ...
 
 <!---
